@@ -1,0 +1,7 @@
+{
+  "name": "NgGo-Delivery",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
